@@ -1,0 +1,11 @@
+HTML
+line 43: href was empty
+line 50: img had no <>
+line 72-76: did not have <li> tags
+line 88-90: assigned wrong ids
+line 113: wrong src
+JS
+line 9: pink was not in quotes
+line 20 and 25: click was not in quotes
+CSS
+I could see no difference in the css file, but the big title on both websites were of different size
